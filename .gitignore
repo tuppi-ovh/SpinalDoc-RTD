@@ -1,6 +1,7 @@
 *.doctree
 *.pickle
 docs/*
+venv/*
 .vscode/*
 .idea
 *.iml
